@@ -1,0 +1,54 @@
+[INFO] 02:39:20:523 ejecucion/(6682:6682): INFORMACION FIN DE PROCESO
+[INFO] 02:39:20:523 ejecucion/(6682:6682): PID: 3 SOCKET: 6
+[INFO] 02:39:20:523 ejecucion/(6682:6682): Inicio de ejecucion: 02:38:53:414
+[INFO] 02:39:20:523 ejecucion/(6682:6682): Fin de ejecucion: 02:39:20:523
+[INFO] 02:39:20:523 ejecucion/(6682:6682): Impresiones por pantalla: 4
+[INFO] 02:39:20:523 ejecucion/(6682:6682): Tiempo total de ejecucion: 0:1:27:109
+[INFO] 02:40:24:81 ejecucion/(6682:6682): INFORMACION FIN DE PROCESO
+[INFO] 02:40:24:81 ejecucion/(6682:6682): PID: 2 SOCKET: 5
+[INFO] 02:40:24:81 ejecucion/(6682:6682): Inicio de ejecucion: 02:38:48:655
+[INFO] 02:40:24:81 ejecucion/(6682:6682): Fin de ejecucion: 02:40:24:81
+[INFO] 02:40:24:81 ejecucion/(6682:6682): Impresiones por pantalla: 0
+[INFO] 02:40:24:81 ejecucion/(6682:6682): Tiempo total de ejecucion: 0:2:36:426
+[INFO] 02:40:24:81 ejecucion/(6682:6682): INFORMACION FIN DE PROCESO
+[INFO] 02:40:24:81 ejecucion/(6682:6682): PID: 4 SOCKET: 7
+[INFO] 02:40:24:81 ejecucion/(6682:6682): Inicio de ejecucion: 02:40:15:291
+[INFO] 02:40:24:81 ejecucion/(6682:6682): Fin de ejecucion: 02:40:24:81
+[INFO] 02:40:24:81 ejecucion/(6682:6682): Impresiones por pantalla: 0
+[INFO] 02:40:24:81 ejecucion/(6682:6682): Tiempo total de ejecucion: 0:0:9:790
+[INFO] 02:40:37:776 ejecucion/(6681:6681): INFORMACION FIN DE PROCESO
+[INFO] 02:40:37:776 ejecucion/(6681:6681): PID: 1 SOCKET: 5
+[INFO] 02:40:37:776 ejecucion/(6681:6681): Inicio de ejecucion: 02:38:14:952
+[INFO] 02:40:37:776 ejecucion/(6681:6681): Fin de ejecucion: 02:40:37:776
+[INFO] 02:40:37:776 ejecucion/(6681:6681): Impresiones por pantalla: 25
+[INFO] 02:40:37:776 ejecucion/(6681:6681): Tiempo total de ejecucion: 0:2:23:824
+[INFO] 02:42:37:299 ejecucion/(6710:6710): INFORMACION FIN DE PROCESO
+[INFO] 02:42:37:299 ejecucion/(6710:6710): PID: 5 SOCKET: 5
+[INFO] 02:42:37:299 ejecucion/(6710:6710): Inicio de ejecucion: 02:41:32:498
+[INFO] 02:42:37:299 ejecucion/(6710:6710): Fin de ejecucion: 02:42:37:299
+[INFO] 02:42:37:299 ejecucion/(6710:6710): Impresiones por pantalla: 11
+[INFO] 02:42:37:299 ejecucion/(6710:6710): Tiempo total de ejecucion: 0:1:5:801
+[INFO] 02:42:37:299 ejecucion/(6710:6710): INFORMACION FIN DE PROCESO
+[INFO] 02:42:37:299 ejecucion/(6710:6710): PID: 7 SOCKET: 6
+[INFO] 02:42:37:299 ejecucion/(6710:6710): Inicio de ejecucion: 02:41:51:254
+[INFO] 02:42:37:299 ejecucion/(6710:6710): Fin de ejecucion: 02:42:37:299
+[INFO] 02:42:37:299 ejecucion/(6710:6710): Impresiones por pantalla: 7
+[INFO] 02:42:37:299 ejecucion/(6710:6710): Tiempo total de ejecucion: 0:1:46:45
+[INFO] 02:45:29:606 ejecucion/(6726:6726): INFORMACION FIN DE PROCESO
+[INFO] 02:45:29:606 ejecucion/(6726:6726): PID: 9 SOCKET: 5
+[INFO] 02:45:29:606 ejecucion/(6726:6726): Inicio de ejecucion: 02:43:25:172
+[INFO] 02:45:29:606 ejecucion/(6726:6726): Fin de ejecucion: 02:45:29:606
+[INFO] 02:45:29:606 ejecucion/(6726:6726): Impresiones por pantalla: 39
+[INFO] 02:45:29:606 ejecucion/(6726:6726): Tiempo total de ejecucion: 0:2:4:434
+[INFO] 02:45:29:607 ejecucion/(6726:6726): INFORMACION FIN DE PROCESO
+[INFO] 02:45:29:607 ejecucion/(6726:6726): PID: 10 SOCKET: 6
+[INFO] 02:45:29:607 ejecucion/(6726:6726): Inicio de ejecucion: 02:43:28:331
+[INFO] 02:45:29:607 ejecucion/(6726:6726): Fin de ejecucion: 02:45:29:607
+[INFO] 02:45:29:607 ejecucion/(6726:6726): Impresiones por pantalla: 0
+[INFO] 02:45:29:607 ejecucion/(6726:6726): Tiempo total de ejecucion: 0:2:1:276
+[INFO] 13:36:40:746 ejecucion/(7029:7120): INFORMACION FIN DE PROCESO
+[INFO] 13:36:40:746 ejecucion/(7029:7120): PID: 1 SOCKET: 5
+[INFO] 13:36:40:746 ejecucion/(7029:7120): Inicio de ejecucion: 13:36:39:123
+[INFO] 13:36:40:746 ejecucion/(7029:7120): Fin de ejecucion: 13:36:40:746
+[INFO] 13:36:40:746 ejecucion/(7029:7120): Impresiones por pantalla: 0
+[INFO] 13:36:40:746 ejecucion/(7029:7120): Tiempo total de ejecucion: 0:0:1:623
